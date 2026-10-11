@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">B &amp; O BMI Calculator</string>
+    <string name="male">MALE</string>
+    <string name="female">FEMALE</string>
+    <string name="height">HEIGHT</string>
+    <string name="weight">WEIGHT</string>
+    <string name="age">AGE</string>
+    <string name="cm">cm</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="recalculate">RE-CALCULATE</string>
+    <string name="your_results">Your Results</string>
+    <string name="bmi_results">BMI Results</string>
+
+    <string name="underweight">UNDERWEIGHT</string>
+    <string name="normal">NORMAL</string>
+    <string name="overweight">OVERWEIGHT</string>
+    <string name="obese">OBESE</string>
+
+    <string name="title_bmi">Calculadora de IMC</string>
+    <string name="hint_weight">Peso (kg)</string>
+    <string name="hint_height">Altura (cm)</string>
+    <string name="btn_calculate">Calcular</string>
+    <string name="result_bmi">IMC: %1$.1f</string>
+    <string name="result_category">Categoría: %1$s</string>
+    <string name="error_empty">Por favor, ingresa peso y altura</string>
+    <string name="error_invalid">Por favor, ingresa valores válidos</string>
+
+    <string name="desc_underweight">Your weight is below the healthy range.</string>
+    <string name="desc_normal">Your weight is in the healthy range.</string>
+    <string name="desc_overweight">Your weight is above the healthy range.</string>
+    <string name="desc_obese">Your weight is well above the healthy range.</string>
+
+    <!-- Accesibilidad -->
+    <string name="cd_male">Male</string>
+    <string name="cd_female">Female</string>
+    <string name="cd_height_slider">Height in centimeters</string>
+    <string name="cd_weight_minus">Decrease weight</string>
+    <string name="cd_weight_plus">Increase weight</string>
+    <string name="cd_age_minus">Decrease age</string>
+    <string name="cd_age_plus">Increase age</string>
+    <string name="cd_back">Go back</string>
+</resources>
